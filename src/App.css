@@ -77,9 +77,9 @@ h1 {
   width: 35px;
   height: 35px;
   cursor: pointer;
-  position: absolute;
-  top: 29%;
-  right: 22rem;
+  position: relative;
+  top: 0.8rem;
+  right: -5%;
   transform: translateY(-50%);
   opacity: 0;
   transition: all 0.3s ease;
@@ -91,7 +91,7 @@ h1 {
 
 .search:hover img {
   opacity: 1;
-  right: 18rem;
+  right: 1%;
 }
 
 
