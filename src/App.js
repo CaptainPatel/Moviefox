@@ -6,7 +6,7 @@ import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
 
-const API_URL = "http://www.omdbapi.com?apikey=3782fe82";
+const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=3782fe82";
 const TRENDING_MOVIES = [ "tt0816692",  "tt12361974",  "tt3152592", "tt1375666", "tt0848228", "tt2488496", "tt4154796", "tt0369610", "tt0167260", "tt4633694", "tt6751668"]; // IMDb IDs of trending movies
 
 const App = () => {
