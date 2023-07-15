@@ -9,7 +9,6 @@
 /coverage
 
 # production
-/build
 
 # misc
 .DS_Store
@@ -23,3 +22,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /olderFile
+node_modules
+node_modules
+node_modules
