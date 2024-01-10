@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Moviefox/static/css/main.f4d5ec44.css",
+    "main.js": "/Moviefox/static/js/main.b04c52f0.js",
+    "index.html": "/Moviefox/index.html",
+    "static/media/search.svg": "/Moviefox/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.f4d5ec44.css.map": "/Moviefox/static/css/main.f4d5ec44.css.map",
+    "main.b04c52f0.js.map": "/Moviefox/static/js/main.b04c52f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d5ec44.css",
+    "static/js/main.b04c52f0.js"
+  ]
+}
